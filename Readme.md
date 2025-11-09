@@ -164,8 +164,8 @@ VITE_API_BASE=http://localhost:8000
 
 ## Screenshots
 
-![alt text](image-1.png)
-![alt text](image.png)
+![alt text](chat.png)
+![alt text](upload.png)
 
 ## Live Demo
 
