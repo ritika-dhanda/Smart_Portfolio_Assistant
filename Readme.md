@@ -168,6 +168,7 @@ VITE_API_BASE=http://localhost:8000
 ![alt text](upload.png)
 
 ## Live Demo
+https://www.loom.com/share/c6a93cc26a3d40128c24e148adc890d6
 
 ## License
 
